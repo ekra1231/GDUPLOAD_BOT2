@@ -1,12 +1,12 @@
 class config:
-    BOT_TOKEN = "1753370277:AAGwncNrYLneZxaUQjLkuGlRANOQoQs-sY8"
-    APP_ID = "6392593"
-    API_HASH = "b9e33e9a8ac3e6fab4b558df2782fbf3"
-    DATABASE_URL = "postgres://iivuhevsasazlt:0debcd7a850330796c367ab508bef302ddc695649534eb37cc7ba3ec296085b1@ec2-107-21-10-179.compute-1.amazonaws.com:5432/d5dfmf7o8dtmfc"
-    SUDO_USERS = "1085686638" # Sepearted by space.
+    BOT_TOKEN = "1942871962:AAHZq-3lAUXFCEu5fVB0qvyT822m00xGvX8"
+    APP_ID = "7891804"
+    API_HASH = "bff1312891e6f4a8ac4eff8670ee3aab"
+    DATABASE_URL = "postgres://wamqzihzzflnbk:4cf4c00a77bb871e60f2dad4c44a988c2fd91f8dc7dc011466643aed6eb7f3fb@ec2-34-197-105-186.compute-1.amazonaws.com:5432/ddogflhitk5h2a"
+    SUDO_USERS = "881253780" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "886171793114-s1l85jbqp7vm6c39iec467b2tvtlvq9b.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "RYvXlCPFp6--pZRjiASqGHqo"
+    G_DRIVE_CLIENT_ID = "1027208620158-5ttjl8v3ham50v9iui072ptspu59idog.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "RBcE7RWYRR1PftNm5m1KB7Mq"
 
 
 class BotCommands:
